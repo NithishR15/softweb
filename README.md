@@ -789,7 +789,7 @@ contact.html
     <div class="banner">
         <br>
         <div class="navbar">
-            <h1 class="logo">C<span>ode</span>C<span>rafters</span></h1>
+            <h1 class="logo">C<span>ode</span>W<span>ars</span></h1>
             <ul>
                 <li><a href="http://127.0.0.1:8000/static/home.html"> Home </a></li>
                 <li><a href="http://127.0.0.1:8000/static/product.html"> Products </a></li>
