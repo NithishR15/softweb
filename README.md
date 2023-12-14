@@ -837,7 +837,7 @@ contact.html
 ![Alt text](<HOME (2).png>)
 ![Alt text](PRODUCT.png)
 ![Alt text](PEOPLE.png)
-![Alt text](CONTACT.png)
+![Alt text](<CONTACT (2).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
