@@ -171,7 +171,7 @@ home.html
                 cursor: pointer;
             }
             footer {
-                background-color: #f60b0b;
+                background-color: #94f60b;
                 margin-top: auto;
             }
         </style>
@@ -337,7 +337,7 @@ product.html
                 line-height: 1.5;
             }
             footer {
-                background-color: #f60b0b;
+                background-color: #94f60b;
                 margin-top: auto;
             }
         </style>
@@ -548,7 +548,7 @@ people.html
                 color: #00d5ff;
             }
             footer {
-                background-color:#fb0b0b;
+                background-color:#94f60b;
                 margin-top: auto;
             }
         </style>
@@ -780,7 +780,7 @@ contact.html
                 font-size: 20px;
             }
             footer {
-                background-color: #fb0b0b;
+                background-color: #94f60b;
                 margin-top: auto;
             }
         </style>
@@ -834,10 +834,10 @@ contact.html
 
 
 ## OUTPUT:
-![Alt text](<HOME (2).png>)
-![Alt text](PRODUCT.png)
-![Alt text](PEOPLE.png)
-![Alt text](<CONTACT (2).png>)
+![Alt text](<Screenshot (30).png>)
+![Alt text](<Screenshot (31).png>)
+![Alt text](<Screenshot (32).png>)
+![Alt text](<Screenshot (33).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
