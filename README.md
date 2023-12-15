@@ -173,6 +173,7 @@ home.html
             footer {
                 background-color: #94f60b;
                 margin-top: auto;
+                font-size: 20px;
             }
         </style>
     </head>
@@ -339,6 +340,7 @@ product.html
             footer {
                 background-color: #94f60b;
                 margin-top: auto;
+                font-size: 20px;
             }
         </style>
     </head>
@@ -550,6 +552,7 @@ people.html
             footer {
                 background-color:#94f60b;
                 margin-top: auto;
+                font-size: 20px;
             }
         </style>
     </head>
@@ -782,6 +785,7 @@ contact.html
             footer {
                 background-color: #94f60b;
                 margin-top: auto;
+                font-size: 20px;
             }
         </style>
     </head>
@@ -834,10 +838,10 @@ contact.html
 
 
 ## OUTPUT:
-![Alt text](<Screenshot (30).png>)
-![Alt text](<Screenshot (31).png>)
-![Alt text](<Screenshot (32).png>)
-![Alt text](<Screenshot (33).png>)
+![Alt text](<Screenshot (34).png>)
+![Alt text](<Screenshot (35).png>)
+![Alt text](<Screenshot (36).png>)
+![Alt text](<Screenshot (37).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
